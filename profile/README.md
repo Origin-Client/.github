@@ -46,9 +46,9 @@ We welcome all contributors — whether you're a developer, designer, tester, or
 
 ## 🌐 Connect With Us
 
-- 🌍 [Origin Website](https://github.com/Origin-Client/origin-website)
-- 💬 [Discord Server](https://discord.gg/your-invite-code)
-- 🐦 [Twitter](https://twitter.com/OriginClient)
+- 🌍 [Origin Website](https://github.com/Origin-Client/origin-website) not complete yet
+- 💬 [Discord Server](https://discord.gg/DQuXcqbjtN)
+- 📍 [Youtube](https://youtube.com/@sucidal-yami?si=vy79w2ypTXZf7vRV)
 - 📩 [Email Us](mailto:contact@originclient.org)
 
 ---
