@@ -49,7 +49,7 @@ We welcome all contributors — whether you're a developer, designer, tester, or
 - 🌍 [Origin Website](https://github.com/Origin-Client/origin-website) not complete yet
 - 💬 [Discord Server](https://discord.gg/DQuXcqbjtN)
 - 📍 [Youtube](https://youtube.com/@sucidal-yami?si=vy79w2ypTXZf7vRV)
-- 📩 [Email Us](mailto:contact@originclient.org)
+- 📩 [Email Us](mailto:origin8493@gmail.com)
 
 ---
 
